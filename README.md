@@ -1,5 +1,5 @@
 # READ DOT ME
-     [ https://user-images.githubusercontent.com/118323272/242747743-cc1af3aa-7637-4bbb-b2ac-01ef7773b4db.png](https://user-images.githubusercontent.com/118323272/242747743-cc1af3aa-7637-4bbb-b2ac-01ef7773b4db.png)
+
 ## Description
 A simple command line based application for generating README documents based on inquirer prompt responses
       
